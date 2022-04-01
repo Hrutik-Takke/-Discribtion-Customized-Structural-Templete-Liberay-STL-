@@ -1,0 +1,2 @@
+# -Discribtion-Customized-Structural-Templete-Liberay-STL-
+In this project we emulate almost all the data structures and its functionalty which are available in STL  In this project we have created eight data structures as follows:  1 :Singly Linear LinkList  2 :Singly Circular LinkList  3 :Doubly Linear LinkList  4 :Doubly Circular LinkList  5 :Stack using LinkList  6 :Stack using Array  7 :Queue using LinkList  8 :Binary Search Tree (BST)
